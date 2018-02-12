@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: blue;
+    clear: left;
+    text-align: center;
+}
+article {
+    margin-left: px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+   <h1>Right place for serach</h1>
+</header>
+  
+
+
+<article>
+ <center> <h1>MADHUMITHA</h1></center>
+  <script>
+  (function() {
+    var cx = '001763253607738115699:spcikhxmhda';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+ 
+</head>  
+
+<body background="kk.jpg"width="322"height="181">
+
+
+<gcse:search></gcse:search> 
+</body>  
+</article>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br><br><br>
+<footer>To serch any thing</footer>
+
+</div>
+
+</body>
+</html>
