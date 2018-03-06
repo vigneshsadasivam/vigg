@@ -1,3 +1,3 @@
-s=input("enter a string")
+s=input("enter the string")
 a=s.split()
 print(len(a))
