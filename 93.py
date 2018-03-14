@@ -1,2 +1,2 @@
 c=int(input("enter celcius"))
-print("kel=",c*273.15)
+print("kel=",c+273)
