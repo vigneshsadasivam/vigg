@@ -6,4 +6,6 @@ for i in s:
     continue
   else:
     l.append(i)
-print(l)
+a=l[::-1]
+a="".join(a)
+print(a)
